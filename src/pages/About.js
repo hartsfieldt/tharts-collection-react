@@ -1,40 +1,19 @@
+import { Link } from "react-router-dom";
+
 const About = () => {
   return (
     <>
-      <header>
-        <nav
-          className="navbar is-size-2 has-background-link-light is-flex-mobile"
-          role="navigation"
-          aria-label="main navigation"
-        >
-          <div className="navbar-brand">
-            <a
-              role="button"
-              className="navbar-burger"
-              aria-label="menu"
-              aria-expanded="false"
-              data-target="navbarBasicExample"
-            >
-              <span aria-hidden="true"></span>
-              <span aria-hidden="true"></span>
-              <span aria-hidden="true"></span>
-            </a>
-          </div>
-          <div className="navbar-menu">
-            <div className="navbar-start">
-              <a class="navbar-item has-text-weight-bold">Teresa Hartsfield</a>
-            </div>
-            <a
-              href="./assets/THartsfield Resume.pdf"
-              download
-              target="Resume"
-              class="navbar-item is-size-4"
-            >
-              Resume
-            </a>
-          </div>
-        </nav>
-      </header>
+      <div>
+        Hello
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+        <script
+          src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"
+          integrity="sha512-HGOnQO9+SP1V92SrtZfjqxxtLmVzqZpjFFekvzZVWoiASSQgSr4cw9Kqd2+l8Llp4Gm0G8GIFJ4ddwZilcdb8A=="
+          crossorigin="anonymous"
+          referrerpolicy="no-referrer"
+        ></script>
+        <script src="./assets/js/script.js"></script>
+      </div>
     </>
   );
 };
