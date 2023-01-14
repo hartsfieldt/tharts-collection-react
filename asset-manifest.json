@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tharts-collection-react/static/css/main.58247734.css",
+    "main.js": "/tharts-collection-react/static/js/main.bc869e63.js",
+    "static/js/787.a2cb61a6.chunk.js": "/tharts-collection-react/static/js/787.a2cb61a6.chunk.js",
+    "index.html": "/tharts-collection-react/index.html",
+    "main.58247734.css.map": "/tharts-collection-react/static/css/main.58247734.css.map",
+    "main.bc869e63.js.map": "/tharts-collection-react/static/js/main.bc869e63.js.map",
+    "787.a2cb61a6.chunk.js.map": "/tharts-collection-react/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58247734.css",
+    "static/js/main.bc869e63.js"
+  ]
+}
