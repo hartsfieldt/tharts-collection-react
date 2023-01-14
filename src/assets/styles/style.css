@@ -1,0 +1,22 @@
+:root {
+    --primary-color: #2a607c;
+    --secondary-color:  #3eb5fa;
+    --tertiary-color: white;
+    --quaternary-color: #001845;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+footer {
+background-color: var(--quaternary-color);
+}
+
+
